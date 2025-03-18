@@ -3,3 +3,4 @@ Django
 Pillow
 gunicorn
 python-dotenv
+security==1.3.1
